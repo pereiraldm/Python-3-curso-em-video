@@ -1,0 +1,3 @@
+Lucas;22
+Ana;15
+Amanda;21
